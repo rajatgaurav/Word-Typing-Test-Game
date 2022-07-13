@@ -23,7 +23,7 @@ const Credit = (props) => {
         <h3>A Simple</h3>
         <h1>Word Typing Game</h1>
         <span>created by</span>
-        <h2>Mr. Dinesh Vaghela</h2>
+        <h2>Rajat Gaurav</h2>
         <div>
           Tech Stack : <code>React JS, CSS</code>
         </div>
