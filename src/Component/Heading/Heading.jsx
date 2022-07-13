@@ -3,7 +3,7 @@ import "./Heading.css";
 
 const txt1 = "type the alphabet";
 const txt2 =
-  "typing game to see how fast you type. timer starts when you do :)";
+  "Typing game to see how fast you type. Timer starts when you do :)";
 
 const Heading = () => {
   return (
