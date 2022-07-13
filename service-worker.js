@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Word-Typing-Test-Game/precache-manifest.5918c1ae23c03567a52c2db27dce564b.js"
+  "/Word-Typing-Test-Game/precache-manifest.ea53daa5dc272f3d6c692e67e22eaba7.js"
 );
 
 workbox.clientsClaim();
