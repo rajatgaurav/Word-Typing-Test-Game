@@ -52,8 +52,7 @@
 }
 
 .credit-detail h2:nth-child(4) {
-  color: #a70c14;
-  /* color: #27ae60 */
+  color: #27ae60;
 }
 
 @keyframes dismiss {
