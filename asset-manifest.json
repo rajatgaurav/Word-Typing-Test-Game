@@ -1,7 +1,7 @@
 {
   "main.css": "/Word-Typing-Test-Game/static/css/main.2b34446f.chunk.css",
-  "main.js": "/Word-Typing-Test-Game/static/js/main.56fd95e1.chunk.js",
-  "main.js.map": "/Word-Typing-Test-Game/static/js/main.56fd95e1.chunk.js.map",
+  "main.js": "/Word-Typing-Test-Game/static/js/main.041179ba.chunk.js",
+  "main.js.map": "/Word-Typing-Test-Game/static/js/main.041179ba.chunk.js.map",
   "static/js/1.8c98aab8.chunk.js": "/Word-Typing-Test-Game/static/js/1.8c98aab8.chunk.js",
   "static/js/1.8c98aab8.chunk.js.map": "/Word-Typing-Test-Game/static/js/1.8c98aab8.chunk.js.map",
   "static/js/2.9d703b4f.chunk.js": "/Word-Typing-Test-Game/static/js/2.9d703b4f.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/Word-Typing-Test-Game/static/js/runtime~main.050db532.js.map",
   "static/css/main.2b34446f.chunk.css.map": "/Word-Typing-Test-Game/static/css/main.2b34446f.chunk.css.map",
   "index.html": "/Word-Typing-Test-Game/index.html",
-  "precache-manifest.ea53daa5dc272f3d6c692e67e22eaba7.js": "/Word-Typing-Test-Game/precache-manifest.ea53daa5dc272f3d6c692e67e22eaba7.js",
+  "precache-manifest.4f01d4c47eaca6db00bcdd16f4e76356.js": "/Word-Typing-Test-Game/precache-manifest.4f01d4c47eaca6db00bcdd16f4e76356.js",
   "service-worker.js": "/Word-Typing-Test-Game/service-worker.js"
 }
