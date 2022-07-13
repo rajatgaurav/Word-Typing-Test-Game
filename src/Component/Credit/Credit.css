@@ -26,8 +26,8 @@
 
 .close-credit {
   position: absolute;
-  top: 1.5rem;
-  right: 3.5rem;
+  top: 7rem;
+  right: 1rem;
   font-size: 3rem;
   color: #000;
   cursor: pointer;
@@ -36,8 +36,8 @@
 .credit-detail {
   background: #fff;
   border: 0.1rem solid rgba(0, 0, 0, 0.1);
-  width: 70vw;
-  padding: 5rem;
+  width: 100vw;
+  padding: 3rem;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
   border-radius: 0.5rem;
 }
@@ -52,8 +52,7 @@
 }
 
 .credit-detail h2:nth-child(4) {
-  color: #a70c14;
-  /* color: #27ae60 */
+  color: #27ae60;
 }
 
 @keyframes dismiss {

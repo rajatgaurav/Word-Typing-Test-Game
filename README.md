@@ -1,2 +1,4 @@
 # tortoise-test
- A Simple Word Typing Game
+
+A Simple Word Typing Game
+by Rajat Gaurav
